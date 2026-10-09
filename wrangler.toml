@@ -11,7 +11,7 @@ NETMASK = "255.255.255.0"
 # Token白名单：token保持不变
 WHITE_TOKEN = "kongdesheng7265"
 # 服务器网关显示名称
-GATEWAY_NAME = "服务器"
+GATEWAY_NAME = "server"
 # 服务端加密：CF 不支持 RSAES-PKCS1-v1_5，保持 false！
 SERVER_ENCRYPT = "false"
 # 是否禁用中继转发：0 允许中继（对称 NAT 需要中继，保持 0）
